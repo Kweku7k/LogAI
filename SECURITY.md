@@ -6,7 +6,7 @@ If you discover a security vulnerability in **LogAI**, please **do not open a pu
 
 Instead, email us at:
 
-**security@yourdomain.com**  
+**security@prestoghana.com**  
 (PGP public key: [link if available])
 
 We will acknowledge receipt of your report within **48 hours** and aim to provide a resolution within **14 days**, depending on severity.
