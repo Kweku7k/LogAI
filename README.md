@@ -27,7 +27,7 @@ Join our engineer chat on Telegram: https://t.me/elonvibecoders
 
 ## 📅 Roadmap (MVP – 4 Weeks)
   - Week 1: Repo setup, log ingestion scaffolding, vector DB connection.
-	-	Week 2: Log retrieval via RAG, error trigger rules.
-	-	Week 3: AI integration & Telegram bot.
-	-	Week 4: Polishing, examples, v0.1.0 release.
+  - Week 2: Log retrieval via RAG, error trigger rules.
+  - Week 3: AI integration & Telegram bot.
+  - Week 4: Polishing, examples, v0.1.0 release.
 
