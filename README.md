@@ -54,3 +54,11 @@ Join our engineer chat on Telegram: https://t.me/elonvibecoders
    ```bash
    git clone https://github.com/kweku7k/logai.git
    cd logai
+   ```
+3.	Set up the development environment
+``` bash
+python -m venv env
+source env/bin/activate   # On Windows: env\Scripts\activate
+pip install -r requirements.txt
+pip install -r requirements-dev.txt
+```
