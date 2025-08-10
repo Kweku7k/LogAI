@@ -31,3 +31,26 @@ Join our engineer chat on Telegram: https://t.me/elonvibecoders
   - Week 3: AI integration & Telegram bot.
   - Week 4: Polishing, examples, v0.1.0 release.
 
+# Contributing to LogAI
+
+🎉 First off, thanks for taking the time to contribute! This project thrives on community effort.
+
+---
+
+## 📌 How You Can Contribute
+- 🐛 **Report bugs** – Found something broken? Let us know.
+- 💡 **Suggest features** – Got ideas for improvement? Open a discussion or issue.
+- 🛠 **Fix bugs & add features** – Pick an issue and start coding.
+- 📖 **Improve documentation** – Even small doc fixes are valuable.
+
+---
+
+## 🧩 Getting Started
+
+1. **Fork the repository**
+   - Click the **Fork** button at the top right of the repo page.
+
+2. **Clone your fork**
+   ```bash
+   git clone https://github.com/kweku7k/logai.git
+   cd logai
