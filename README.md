@@ -62,13 +62,28 @@ Join our engineer chat on Telegram: https://t.me/elonvibecoders
   pip install -r requirements.txt
   pip install -r requirements-dev.txt
   ```
+
 4.	Create a feature branch
-  ```
+  ```bash
   git checkout -b feature/my-new-feature
   ```
 
 5.	Commit changes
-  ```
+  ```bash
   git add .
   git commit -m "feat: add my new feature"
   ```
+
+6.	Push branch & open PR
+  ```bash
+  git push origin feature/my-new-feature
+  ```
+
+## ✅ Contribution Guidelines
+Follow PEP8 style guide.
+•	Run tests before pushing:
+``` bash
+pytest
+```
+
+
