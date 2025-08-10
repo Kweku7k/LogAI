@@ -56,9 +56,19 @@ Join our engineer chat on Telegram: https://t.me/elonvibecoders
    cd logai
    ```
 3.	Set up the development environment
-``` bash
-python -m venv env
-source env/bin/activate   # On Windows: env\Scripts\activate
-pip install -r requirements.txt
-pip install -r requirements-dev.txt
-```
+  ``` bash
+  python -m venv env
+  source env/bin/activate   # On Windows: env\Scripts\activate
+  pip install -r requirements.txt
+  pip install -r requirements-dev.txt
+  ```
+4.	Create a feature branch
+  ```
+  git checkout -b feature/my-new-feature
+  ```
+
+5.	Commit changes
+  ```
+  git add .
+  git commit -m "feat: add my new feature"
+  ```
