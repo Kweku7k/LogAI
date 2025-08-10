@@ -3,7 +3,8 @@ name: Good First Issue
 about: Beginner-friendly issue for first-time contributors
 title: "[GOOD FIRST ISSUE] Short description of the task"
 labels: good first issue
-assignees: ""
+assignees: ''
+
 ---
 
 ## 📝 Task
