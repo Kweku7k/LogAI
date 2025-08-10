@@ -87,3 +87,22 @@ pytest
 ```
 
 
+	•	Keep commits focused and meaningful.
+	•	For large changes, open an issue first to discuss.
+
+⸻
+
+## 🏷 Issue Labels
+	•	good first issue – Small, beginner-friendly tasks.
+	•	help wanted – Needs community input.
+	•	core – MVP-critical tasks.
+	•	discussion – Brainstorming & planning.
+
+##🛡 Code of Conduct
+
+Be respectful. This project follows the Contributor Covenant.
+
+⸻
+
+
+
