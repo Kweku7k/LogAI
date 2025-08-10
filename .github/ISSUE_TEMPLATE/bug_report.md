@@ -3,7 +3,8 @@ name: Bug report
 about: Report a problem or unexpected behavior in LogAI
 title: "[BUG] Short description of the issue"
 labels: bug
-assignees: ""
+assignees: ''
+
 ---
 
 ## 🐛 Description

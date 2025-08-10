@@ -3,7 +3,8 @@ name: Feature request
 about: Suggest a new idea or improvement for LogAI
 title: "[FEATURE] Short description of the feature"
 labels: enhancement
-assignees: ""
+assignees: ''
+
 ---
 
 ## 💡 Feature Description
