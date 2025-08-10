@@ -1,20 +1,35 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
+about: Suggest a new idea or improvement for LogAI
+title: "[FEATURE] Short description of the feature"
+labels: enhancement
+assignees: ""
+---
+
+## 💡 Feature Description
+A clear and concise description of the feature you’re proposing.
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+## 🎯 Use Case
+Explain **why** this feature would be useful.  
+Who would benefit from it, and in what scenarios?
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+---
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+## 🛠 Possible Implementation
+If you have ideas on **how** this feature could be built, describe them here.  
+Feel free to include:
+- Pseudocode
+- API changes
+- Example commands
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+---
+
+## 📌 Alternatives Considered
+List any alternative approaches you’ve thought about and why they’re not as good.
+
+---
+
+## 📎 Additional Context
+Add any other context, screenshots, diagrams, or references to related issues here.
