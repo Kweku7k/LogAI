@@ -97,6 +97,7 @@ pytest
 	•	help wanted – Needs community input.
 	•	core – MVP-critical tasks.
 	•	discussion – Brainstorming & planning.
+⸻
 
 ##🛡 Code of Conduct
 
